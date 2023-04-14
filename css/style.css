@@ -70,6 +70,10 @@ body{
     background-color: rgb(240,128,128);
 }
 
+.pink-jumbo{
+    background-color: rgb(240,128,128);
+}
+
 .scieleste{
     background-color: rgb(32,178,170);
 }
@@ -80,6 +84,10 @@ body{
 
 .rosetto{
     background-color: rgb(255,182,193);
+}
+
+.green{
+    background-color: rgb(34,139,34);
 }
 
 .scuro{
@@ -149,7 +157,6 @@ main>.section:nth-child(even){
 
 main>.section:nth-last-child(2)>.container{
     height: 800px;
-    background-color: rgb(34,139,34);
 }
 
 .bottom-nav{
